@@ -1,4 +1,4 @@
-Live Preview : https://glittery-nougat-b77a40.netlify.app/
+Live Preview : https://yusuf-resume2.netlify.app/
 
 ## Project Structure
 
